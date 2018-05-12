@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25587
     wikipedia: http://en.wikipedia.org/wiki/Jos%C3%A9_Enrique_Rod%C3%B3
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22899#Ariel
 gutenberg_issued: '2007-10-05'
 gutenberg_type: Text
 identifiers:
